@@ -1,1 +1,6 @@
-print('hello world);
+print('hello world')
+print('new line')
+print('hi')
+print('error')
+print('ok')
+print(5**3)
