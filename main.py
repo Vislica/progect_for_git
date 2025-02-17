@@ -7,3 +7,4 @@ print(5**3)
 for i in range(5):
   print(i)
 a = 4
+b = 0
