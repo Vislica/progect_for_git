@@ -1,4 +1,4 @@
-print('hello world')
+print('hello world - привет мир')
 print('new line')
 print('hi')
 print('error')
