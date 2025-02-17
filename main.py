@@ -7,7 +7,7 @@ print(5**3)
 for i in range(5):
   print(i)
 
-a = 1
+a = 10
 a = 4
 b = 0
 
