@@ -6,4 +6,5 @@ print('ok')
 print(5**3)
 for i in range(5):
   print(i)
-a = 0
+
+a = 1
